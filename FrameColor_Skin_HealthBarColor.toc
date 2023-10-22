@@ -1,8 +1,9 @@
 ## Interface: 100107
-## Version: 1
+## Version: @project-version@
 ## Title: FrameColor_Skin_HealthBarColor
 ## Author: Slothpala
 ## Dependencies: HealthBarColor, FrameColor
+## X-Curse-Project-ID: 926175
 
 FrameColor_Skin_HealthBarColor.lua
 
